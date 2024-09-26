@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#result {
+  font-size: 25px;
+  margin: 30px;
+  color: #333;
+}
